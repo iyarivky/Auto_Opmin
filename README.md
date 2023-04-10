@@ -28,7 +28,9 @@ cd .shortcut
 
 #### 5. Download scriptnya
 
-wget -i http
+```
+wget -i https://raw.githubusercontent.com/iyarivky/Auto_Opmin/main/download_sh.txt
+```
 
 #### 6. Buat semua scriptnya jadi executable dengan `chmod`
 
