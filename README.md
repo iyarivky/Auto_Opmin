@@ -20,7 +20,7 @@ https://f-droid.org/packages/com.termux.widget/
 pkg install termux-api 
 ```
 
-#### 4. masuk ke folder `.shortcut` dengan command :
+#### 4. Masuk ke folder `.shortcut` dengan command :
 
 ``` 
 cd .shortcut
@@ -40,9 +40,9 @@ chmod +x *
 
 #### 7. Keluar dari Termux
 
-#### 8. Buka pengaturan launcher android (Biasanya tinggal tekan tombol fisik yang ada di pojok kiri bawah)
+#### 8. Buka pengaturan launcher Android (Biasanya tinggal tekan tombol fisik yang ada di pojok kiri bawah)
 
-#### 9. Add Widget Termux dengan tahan dan drag widgetnya ke tempat yang kamu mau
+#### 9. Tambahkan Widget Termux ke launcher dengan tahan dan drag widgetnya ke tempat yang kamu mau
 
 #### 10. Lalu ada pilihan script yang barusan kamu download, tinggal pilih yang kamu mau
 
@@ -68,3 +68,5 @@ echo "SEND UNREG"
 ```
 
 untuk edit confignya, bisa pakai `micro`, `nano`, `vi` dll
+
+Bingung? tinggal pm @iya_rivvikyn di Telegram
