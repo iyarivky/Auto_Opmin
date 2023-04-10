@@ -76,6 +76,6 @@ echo "SEND UNREG"
 
 untuk edit scriptnya, bisa pakai `micro`, `nano`, `vi` dll
 
-Bingung? tinggal pm [@iya_rivvikyn](t.me/iya_rivvikyn) di Telegram
+Bingung? tinggal pm [@iya_rivvikyn](https://t.me/iya_rivvikyn) di Telegram
 
 ![bingung bang?](https://c.tenor.com/M5Qi18Me3VMAAAAd/bingung.gif)
