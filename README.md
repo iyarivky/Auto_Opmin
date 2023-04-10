@@ -74,6 +74,8 @@ termux-sms-send -n 99722 -s 1 UNREG
 echo "SEND UNREG"
 ```
 
-untuk edit confignya, bisa pakai `micro`, `nano`, `vi` dll
+untuk edit scriptnya, bisa pakai `micro`, `nano`, `vi` dll
 
 Bingung? tinggal pm [@iya_rivvikyn](t.me/iya_rivvikyn) di Telegram
+
+![bingung bang?](https://c.tenor.com/M5Qi18Me3VMAAAAd/bingung.gif)
