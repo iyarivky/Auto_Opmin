@@ -40,9 +40,9 @@ chmod +x *
 
 #### 7. Keluar dari Termux
 
-#### 8. Buka pengaturan launcher Android (Biasanya tinggal tekan tombol fisik yang ada di pojok kiri bawah)
+#### 8. Buka pengaturan launcher Android (Biasanya tinggal tahan tombol fisik yang ada di pojok kiri bawah), lalu pilih "Widget"
 
-#### 9. Tambahkan Widget Termux ke launcher dengan tahan dan drag widgetnya ke tempat yang kamu mau
+#### 9. Tambahkan "Termux shorcut" ke launcher dengan tahan dan drag widgetnya ke tempat yang kamu mau
 
 #### 10. Lalu ada pilihan script yang barusan kamu download, tinggal pilih yang kamu mau
 
