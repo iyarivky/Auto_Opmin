@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/iyarivky/Auto_Opmin/main/Perpanjang_Opmin.sh
 https://raw.githubusercontent.com/iyarivky/Auto_Opmin/main/REG_Opmin.sh
 https://raw.githubusercontent.com/iyarivky/Auto_Opmin/main/UNREG_Opmin.sh
-https://raw.githubusercontent.com/iyarivky/Auto_Opmin/main/UNREG_Opmin.sh
+https://raw.githubusercontent.com/iyarivky/Auto_Opmin/main/UNREG_dan_REG_Opmin.sh
