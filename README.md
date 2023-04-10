@@ -43,15 +43,15 @@ chmod +x *
 #### 8. Buka pengaturan launcher Android (Biasanya tinggal tahan tombol fisik yang ada di pojok kiri bawah), lalu pilih "Widget"
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/101973571/230915456-1eb61455-2f77-40ee-bebe-1f99c3620ab0.png" width="25%"><p>
+<p align="center"><img src="https://user-images.githubusercontent.com/101973571/230915456-1eb61455-2f77-40ee-bebe-1f99c3620ab0.png" width="50%"><p>
 
 #### 9. Tambahkan "Termux shorcut" ke launcher dengan tahan dan drag widgetnya ke tempat yang kamu mau
 
-<p align="center"><img src="https://user-images.githubusercontent.com/101973571/230916213-e6ad66a1-8219-4c7a-a450-0a8337afa5a3.png" width="25%"><p>
+<p align="center"><img src="https://user-images.githubusercontent.com/101973571/230916213-e6ad66a1-8219-4c7a-a450-0a8337afa5a3.png" width="50%"><p>
 
 #### 10. Lalu ada pilihan script yang barusan kamu download, tinggal pilih yang kamu mau
 
-<p align="center"><img src="https://user-images.githubusercontent.com/101973571/230916356-a3bac685-542e-436a-b766-bf8177b5752b.png" width="25%"><p>
+<p align="center"><img src="https://user-images.githubusercontent.com/101973571/230916356-a3bac685-542e-436a-b766-bf8177b5752b.png" width="50%"><p>
 
 #### 11. Done
 
