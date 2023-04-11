@@ -20,14 +20,14 @@ https://f-droid.org/packages/com.termux.widget/
 pkg install termux-api 
 ```
 
-#### 4. Masuk ke folder `.shortcut` dengan command :
+#### 4. Masuk ke folder `.shortcuts` dengan command :
 
 ``` 
-cd .shortcut
+cd .shortcuts
 ``` 
 ⚠️Caution⚠️
 
-Jika muncul peringatan `cd .shortcut: No such file or directory`, lakukan langkah ke-8 sampai ke-9 agar "memancing" folder `.shortcut` dibuat
+Jika muncul peringatan `cd .shortcuts: No such file or directory`, lakukan langkah ke-8 sampai ke-9 agar "memancing" folder `.shortcuts` dibuat
 
 #### 5. Download scriptnya
 
