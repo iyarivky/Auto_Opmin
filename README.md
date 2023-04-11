@@ -57,7 +57,7 @@ chmod +x *
 
 ### ⚠️Caution⚠️
 
-Script tersebut (terutama script yang menggunakan command `termux-sms-send`) bekerja jika kartu XL kalian ada di SIM1, kalau kartu XL kalian ada di SIM2, ubah dulu nilai parameter `-s` menjadi `1`
+Untuk **Dual SIM** , script tersebut (terutama script yang menggunakan command `termux-sms-send`) bekerja jika kartu XL kalian ada di SIM1, kalau kartu XL kalian ada di SIM2, ubah dulu nilai parameter `-s` menjadi `1`
 
 contoh untuk script UNREG_Opmin.sh
 ```
@@ -73,7 +73,13 @@ ubah menjadi
 termux-sms-send -n 99722 -s 1 UNREG
 echo "SEND UNREG"
 ```
+Untuk **Single SIM**, hilangkan saja parameter dan value `-s` saja menjadi : 
+```
+#!/bin/sh
 
+termux-sms-send -n 99722 UNREG
+echo "SEND UNREG"
+```
 untuk edit scriptnya, bisa pakai `micro`, `nano`, `vi` dll
 
 Bingung? tinggal pm [@iya_rivvikyn](https://t.me/iya_rivvikyn) di Telegram
