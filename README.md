@@ -25,6 +25,9 @@ pkg install termux-api
 ``` 
 cd .shortcut
 ``` 
+⚠️Caution⚠️
+
+Jika muncul peringatan `cd .shortcut: No such file or directory`, lakukan langkah ke-8 sampai ke-9 agar "memancing" folder `.shortcut` dibuat
 
 #### 5. Download scriptnya
 
