@@ -19,11 +19,11 @@ untuk dial perpanjangan paket Opera Mini ke `*808*363*4*3*1#` via command `termu
 
 #### 1. Install Termux, Termux:API, dan Termux:Widget
 
-https://f-droid.org/packages/com.termux/
+- https://f-droid.org/packages/com.termux/
 
-https://f-droid.org/en/packages/com.termux.api/
+- https://f-droid.org/en/packages/com.termux.api/
 
-https://f-droid.org/packages/com.termux.widget/
+- https://f-droid.org/packages/com.termux.widget/
 
 #### 2. Masuk ke Termux
 
