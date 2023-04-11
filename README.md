@@ -89,7 +89,7 @@ ubah menjadi
 termux-sms-send -n 99722 -s 1 UNREG
 echo "SEND UNREG"
 ```
-Untuk **Single SIM**, hilangkan saja parameter dan value `-s` saja menjadi : 
+Untuk **Single SIM**, hilangkan saja parameter dan value `-s` menjadi : 
 ```
 #!/bin/sh
 
