@@ -1,6 +1,19 @@
 # Auto Opmin
 Automasi registrasi dan unregistrasi paket Opera Mini XL dengan Termux
 
+Script terdiri dari:
+- `REG_Opmin.sh`\
+untuk dial registrasi paket Opera Mini ke `*808*363*3*1#` via command `termux-telephony-call`
+
+- `UNREG_Opmin.sh`\
+untuk kirim SMS unregistrasi (UNREG) paket Opera Mini ke `99722` via command `termux-sms-send`
+
+- `UNREG_dan_REG_Opmin.sh`\
+untuk melakukan unregistrasi dan registrasi paket Opera Mini secara bersamaan dengan jeda waktu selama 2 detik
+
+- `Perpanjang_Opmin.sh`\
+untuk dial perpanjangan paket Opera Mini ke `*808*363*4*3*1#` via command `termux-telephony-call`
+
 ## Tutorial
 
 
@@ -56,7 +69,7 @@ chmod +x *
 
 <p align="center"><img src="https://user-images.githubusercontent.com/101973571/230916356-a3bac685-542e-436a-b766-bf8177b5752b.png" width="50%"><p>
 
-#### 11. Done
+#### 11. Done 👍
 
 ### ⚠️Caution⚠️
 
